@@ -1,3 +1,5 @@
+console.log("Really not much to see here, a basic HTML/CSS resume is by no means an indicator of my web developing skills!")
+
 WebFontConfig = {
     google: { families: [ 'Lato:300,400,700:latin' ] }
 };
@@ -10,3 +12,4 @@ WebFontConfig = {
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(wf, s);
 })();
+
