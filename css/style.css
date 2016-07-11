@@ -230,6 +230,17 @@
     border: 1px solid #357ebd;
     margin-right: 5px;
 }
+.sitesButton {
+	margin-right: 50px;
+}
+.sitesButton span {
+    display: inline-block;
+    background: #7eb0db;
+    color: white;
+    font-size: 0.9em;
+    padding: 7px;
+    border: 1px solid #357ebd;
+}
 .label-keyword:last-child {
     margin-right: 0;
 }
