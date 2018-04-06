@@ -46,9 +46,9 @@
       months = (d2.getFullYear() - d1.getFullYear()) * 12;
       months -= d1.getMonth() + 1;
       months += d2.getMonth();
-      return months <= 0 ? 0 : months;
+      return months <= 0 ? 0 : months+1;
     }
-      let startDate = new Date(2018, 01, 08);
+      let startDate = new Date(2018, 0, 8);
       let now = new Date();
       $('#deloitteExp').text(Diff(startDate, now) + ' months');
         
