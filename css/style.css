@@ -485,6 +485,9 @@ body {
     visibility: hidden;
     overflow: hidden;
 }
+li.mop-wrapper {
+    margin-bottom: 5px;
+}
 .floating-nav ul {
     font-size: 1.2em;
     margin: 0;
