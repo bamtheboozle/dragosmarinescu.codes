@@ -526,7 +526,7 @@ li.mop-wrapper {
     padding: 10px;
 }
 .profile-pic {
-    padding: 20px 0;
+    padding-top: 10px;
 }
 @media (max-width: 992px) {
     .profile-pic {
@@ -534,8 +534,8 @@ li.mop-wrapper {
     }
 }
 .profile-pic img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 @media (max-width: 992px) {
     .name {
