@@ -1,0 +1,186 @@
+{
+  "meta": { "theme": "stackoverflow" },
+  "basics": {
+    "name": "Dragoș-Paul Marinescu",
+    "label": "Front-End Engineer",
+    "summary": "<h1 style='font-size: 16px'>I'm a <span style='color:#5295ff'><strong>Front-End Engineer with React / React Native</strong></span> with a strong desire to produce high quality software by understanding and applying current best practices in front-end development.</h1> <p style='margin-top: 10px'>I started as a full-stack web developer at a startup but transitioned to a front-end role in order to <span style='color:#5295ff'><strong>specialize on creating performant, optimized, and beautiful web-apps tailored for your users</strong></span>. I am an extremely product-focused developer who prioritizes collaboration, performance and user experience.</p><p>In my spare time, I play around with ML models and crypto/blockchain products.</p>",
+    "website": "https://dragosmarinescu.codes",
+    "email": "drmarinescu@icloud.com",
+    "location": {
+      "city": "Bucharest",
+      "countryCode": "RO"
+    },
+    "profiles": [
+      {
+        "username": "bamtheboozle",
+        "url": "https://twitter.com/bamtheboozle",
+        "network": "twitter"
+      },
+      {
+        "username": "bamtheboozle",
+        "url": "https://github.com/bamtheboozle",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/dragospaul95",
+        "username": "dragospaul95",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2014-10-01",
+      "startDate": "2017-07-01",
+      "area": "Cybernetics & Software Development",
+      "studyType": "Bachelors",
+      "institution": "Academia de Studii Economice București"
+    }
+  ],
+  "references": [
+    {
+      "reference": "Contact personally for feedback.",
+      "name": "Klaus Zöggeler, Leader Digital Development, INNIO GROUP"
+    },
+    {
+      "reference": "It is my pleasure to recommend Dragos Marinescu both as a person and as a professional. I have known Dragos for over two years, during which time he worked as a full-stack software developer in my team. From day one, during the time that he has worked in our company, Dragos impressed us with his willingness to learn and his capacity to understand new concepts. Also, he has a work rate that I have rarely seen at other developers. He has quickly established himself as a reliable programmer, writing good quality code and supporting the team whenever needed. He is both very bright and quite motivated. I am confident that he will quickly become an indispensable asset of any software development team. Dragos often surprised everyone with out-of-the box ideas or solutions to different problems. I particularly appreciate his willingness to take initiative to help the team achieve it's goals and deliver on time.",
+      "name": "Horia Andrei Văleanu, CTO, Questia Group."
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "React",
+        "React Hooks",
+        "Typescript",
+        "Javascript",
+        "React Query",
+        "Redux",
+        "GraphQL",
+        "Jest",
+        "Enzyme",
+        "Gatsby",
+        "Design Systems / Custom / Material-UI / Bootstrap",
+        "Storybook",
+        "Figma / Sketch",
+        "SCSS",
+        "Styled Components"
+      ],
+      "level": "Master",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["React Native", "Electron", "Ionic"],
+      "level": "Intermediate",
+      "name": "Mobile"
+    },
+    {
+      "keywords": ["NodeJS", "Serverless", "MongoDB", "SQL / NoSQL"],
+      "level": "Intermediate",
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "Git",
+        "Github Actions",
+        "Docker",
+        "Jenkins",
+        "Webpack",
+        "Yarn",
+        "Node"
+      ],
+      "name": "Other"
+    }
+  ],
+  "work": [
+    {
+      "summary": "<p><span style='color:#5295ff'><strong>Arive</strong></span> is a start-up looking to deliver your favourite brands in under 30 minutes. <p>At Arive, I have joined as a Front-End Engineer and during the 4 month contract I helped them design, architect and bootstrap the content management platform <span style='color:#5295ff'><strong>using React</strong></span>. I collaborated with product and design teams in order to <span style='color:#5295ff'><strong>create an efficient, fast and scalable platform.</strong></span></p><p>In addition to that, I have also mentored their existing team of front-end developers and <span style='color:#5295ff'><strong>took lead on implementing the features - this includes code reviews, sprint planning, story assignments, as well as general help when implementing/debugging code.</strong></span></p>",
+      "website": "https://getarive.com",
+      "company": "Arive GmbH",
+      "location": "Berlin, DE",
+      "position": "Front-End Engineer",
+      "startDate": "2021-07-01",
+      "endDate": "2021-11-22",
+      "highlights": ["React", "React Query", "Typescript", "Sentry", "SCSS"]
+    },
+    {
+      "summary": "<p><span style='color:#5295ff'><strong>Innio</strong></span> is one of the top manufacturers of gas engines in the market. In order to digitalize their business, I helped them build an IoT application for the management of their engines and technicians across the world.<p><p>For the <strong>engines</strong>, some of the features include <span style='color:#5295ff'><strong>tracking engine performance, monitoring and updating functioning parameters, triggering and resolving alerts</strong></span>.</p><p>For the technicians, features I have built include <span style='color:#5295ff'><strong>multi-device sync, offline capabilities, conflict handling on form inputs, tracking time entries and expenses, report preview and generation</strong></span>.</p>",
+      "website": "https://www.innio.com",
+      "company": "Innio Group",
+      "location": "Vienna, AT",
+      "position": "React / React Native Developer",
+      "startDate": "2020-06-01",
+      "endDate": "2021-06-01",
+      "highlights": [
+        "React",
+        "React Query",
+        "React Native",
+        "Typescript",
+        "Electron",
+        "SCSS"
+      ]
+    },
+    {
+      "summary": "<p><span style='color:#5295ff'><strong>Aera</strong></span> is building a cognitive platform capable of understanding, recommending, predicting, and autonomously executing decisions to improve your business' supply chain management solution.</p><p>As Front-end Lead, I have started one of the company's backbone projects within the Aera Platform and implemented the architecture for it. I have <span style='color:#5295ff'><strong>mentored the junior and mid level developers across Romania, US, and Pakistan</strong></span>. I have also <span style='color:#5295ff'><strong>set up the CI/CD pipeline and Sonarqube</strong></span> in order to increase code quality.</p><p>The web-app allowed users to create skills and integrate them within Aera's data types, while also creating advanced schematics and data warehouse solutions.</p>",
+      "website": "https://www.aeratechnology.com/",
+      "company": "Aera Technology",
+      "location": "Bucharest, RO",
+      "position": "Front-End Tech Lead",
+      "startDate": "2019-05-01",
+      "endDate": "2020-06-01",
+      "highlights": ["React", "Redux", "Typescript", "Webpack", "SCSS"]
+    },
+    {
+      "summary": "<p><span style='color:#5295ff'><strong>Deloitte Digital</strong></span> builds and delivers end-to-end projects for client's business.</p><p>As Front-end Engineer at Deloitte, I have helped <span style='color:#5295ff'><strong>define the architecture of a digital transformation project</strong></span> for Prudential, one of UK's largest financial institutions.</p><p>The digital suite of secure web applications was designed with <span style='color:#5295ff'><strong>React & Redux & Typescript, following a micro-frontends approach</strong></span> that allowed greater productivity and less conflicts when developing, as each feature team was responsible for one micro-frontend. The apps were then coupled using Lerna and shipped as a standalone app that allowed consultants to create and manage pension schemes, clients and applications.</p><p>In the Bucharest office, I have also acted as Front-End Lead across the four feature teams, by <span style='color:#5295ff'><strong>taking architectural decisions, code reviewing, and by mentoring junior and mid-level developers write clean, testable and scalable code</strong></span>.</p><p>Moreover, I was <span style='color:#5295ff'><strong>actively involved in Deloitte's recruitment process</strong></span> and have worked closely with project managers across the different projects in Deloitte in order to develop efficient interviewing practices and to <span style='color:#5295ff'><strong>hire passionate, talented, and knowledgeable developers</strong></span>.</p>",
+      "website": "https://www.deloittedigital.com/",
+      "company": "Deloitte Digital",
+      "location": "Bucharest, RO",
+      "position": "Front-End Engineer",
+      "startDate": "2018-01-01",
+      "endDate": "2019-05-01",
+      "highlights": [
+        "React",
+        "Redux",
+        "Typescript",
+        "Jest",
+        "Azure",
+        "Webpack",
+        "SCSS"
+      ]
+    },
+    {
+      "summary": "<p><span style='color:#5295ff'><strong>Questia Group</strong></span> offers agile market research services offering real time results for a fraction of the cost of 'traditional' methods.</p><p>As a Full-Stack Developer at Questia, I have <span style='color:#5295ff'><strong>helped build the web / mobile platforms necessary for the business to function</strong></span>. This included the primary platform for users to interact with each other, to view their profiles, answer dynamic surveys, etc. In addition to this, I have also helped build the admin website that allows content managers to create dynamic surveys, manage users, send newsletters, create raffles, post articles, etc.</p><p>I have <span style='color:#5295ff'><strong>created a mobile-companion application with similar features</strong></span> as the primary platform so that users can more easily stay in touch with the surveys and articles posted within the app.</p>",
+      "website": "https://questiagroup.com/",
+      "company": "Questia Group",
+      "location": "Bucharest, RO",
+      "position": "Full-Stack Developer",
+      "startDate": "2015-10-01",
+      "endDate": "2017-12-01",
+      "highlights": [
+        "AngularJS",
+        "Boostrap",
+        "BackboneJS",
+        "PHP Symfony2",
+        "Java Hibernate",
+        "MySQL",
+        "Ionic Cordova"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deep Learning Models",
+      "summary": "Having fun with understanding and building deep learning models.",
+      "highlights": [
+        "Predictive Neural Networks",
+        "Convoluted Neural Networks for Classification",
+        "Recurrent Neural Networks for generating data / sentiment prediction",
+        "Generative Adversarial Networks for generating pictures, such as human faces"
+      ]
+    },
+    {
+      "name": "Crypto",
+      "summary": "Building a NodeJS Binance trading bot that detects volatility spikes and attempts to profit off of them."
+    }
+  ]
+}

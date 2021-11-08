@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "^1.4.0",
+    "resume-cli": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "pdf": "resume export resume.pdf --theme=stackoverflow",
+    "html": "resume export index.html --theme=stackoverflow"
+  },
+  "author": "",
+  "license": "ISC"
+}
