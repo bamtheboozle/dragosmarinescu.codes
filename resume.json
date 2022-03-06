@@ -2,8 +2,8 @@
   "meta": { "theme": "stackoverflow" },
   "basics": {
     "name": "Dragoș-Paul Marinescu",
-    "label": "Front-End Engineer",
-    "summary": "<h1 style='font-size: 16px'>I'm a <span style='color:#5295ff'><strong>Front-End Engineer with React / React Native</strong></span> with a strong desire to produce high quality software by understanding and applying current best practices in front-end development.</h1> <p style='margin-top: 10px'>I started as a full-stack web developer at a startup but transitioned to a front-end role in order to <span style='color:#5295ff'><strong>specialize on creating performant, optimized, and beautiful web-apps tailored for your users</strong></span>. I am an extremely product-focused developer who prioritizes collaboration, performance and user experience.</p><p>In my spare time, I play around with ML models and crypto/blockchain products.</p>",
+    "label": "Full-Stack Engineer",
+    "summary": "<h1 style='font-size: 16px'>I'm a <span style='color:#5295ff'><strong>Full-Stack Engineer with React / React Native</strong></span> with a strong desire to produce high quality software by constantly learning and applying current best practices in front-end/back-end development.</h1> <p style='margin-top: 10px'>My main focus is on the front-end, <span style='color:#5295ff'><strong>specializing on creating performant, optimized, and beautiful web-apps</strong></span>. I am an extremely product-focused developer who prioritizes collaboration, performance and user experience.</p><p>In my spare time, I play around with ML models and crypto/blockchain products.</p>",
     "website": "https://dragosmarinescu.codes",
     "email": "drmarinescu@icloud.com",
     "location": {
@@ -70,14 +70,14 @@
       "name": "Frontend"
     },
     {
+      "keywords": ["NodeJS", "Serverless", "MongoDB", "SQL / NoSQL"],
+      "level": "Advanced",
+      "name": "Backend"
+    },
+    {
       "keywords": ["React Native", "Electron", "Ionic"],
       "level": "Intermediate",
       "name": "Mobile"
-    },
-    {
-      "keywords": ["NodeJS", "Serverless", "MongoDB", "SQL / NoSQL"],
-      "level": "Intermediate",
-      "name": "Backend"
     },
     {
       "keywords": [
@@ -93,6 +93,15 @@
     }
   ],
   "work": [
+    {
+      "summary": "<p>Building the next generation browser-based video editing platform 🦄.</p>",
+      "website": "https://veed.io/",
+      "company": "Veed",
+      "location": "London, UK",
+      "position": "Full-Stack Engineer",
+      "startDate": "2022-02-01",
+      "highlights": ["React", "Node.js", "Redux", "Typescript"]
+    },
     {
       "summary": "<p><span style='color:#5295ff'><strong>Arive</strong></span> is a start-up looking to deliver your favourite brands in under 30 minutes. <p>At Arive, I have joined as a Front-End Engineer and during the 4 month contract I helped them design, architect and bootstrap the content management platform <span style='color:#5295ff'><strong>using React</strong></span>. I collaborated with product and design teams in order to <span style='color:#5295ff'><strong>create an efficient, fast and scalable platform.</strong></span></p><p>In addition to that, I have also mentored their existing team of front-end developers and <span style='color:#5295ff'><strong>took lead on implementing the features - this includes code reviews, sprint planning, story assignments, as well as general help when implementing/debugging code.</strong></span></p>",
       "website": "https://getarive.com",
