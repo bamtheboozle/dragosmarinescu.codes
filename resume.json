@@ -59,9 +59,8 @@
         "GraphQL",
         "Jest",
         "Enzyme",
-        "Gatsby",
-        "Design Systems / Custom / Material-UI / Bootstrap",
-        "Storybook",
+        "MediaRecorder / ScreenCapture API",
+        "Design Systems",
         "Figma / Sketch",
         "SCSS",
         "Styled Components"
@@ -94,13 +93,22 @@
   ],
   "work": [
     {
-      "summary": "<p>Building the next generation browser-based video editing platform 🦄.</p>",
+      "summary": "<p>Built an industry-leading <span style='color:#5295ff'><strong>web-based screen recorder</strong></span> from the ground up.</p><p>Functionality includes recording multiple streams individually (screen, slides, camera, audio), manipulating the streams, multiple scenes recording and integrating them within Veed's web-based editor.</p>",
       "website": "https://veed.io/",
       "company": "Veed",
       "location": "London, UK",
       "position": "Full-Stack Engineer",
       "startDate": "2022-02-01",
-      "highlights": ["React", "Node.js", "Redux", "Typescript"]
+      "endDate": "2022-08-10",
+      "highlights": [
+        "React",
+        "Node.js",
+        "Redux",
+        "Typescript",
+        "Canvas",
+        "MediaRecorder API",
+        "Chrome Extension"
+      ]
     },
     {
       "summary": "<p><span style='color:#5295ff'><strong>Arive</strong></span> is a start-up looking to deliver your favourite brands in under 30 minutes. <p>At Arive, I have joined as a Front-End Engineer and during the 4 month contract I helped them design, architect and bootstrap the content management platform <span style='color:#5295ff'><strong>using React</strong></span>. I collaborated with product and design teams in order to <span style='color:#5295ff'><strong>create an efficient, fast and scalable platform.</strong></span></p><p>In addition to that, I have also mentored their existing team of front-end developers and <span style='color:#5295ff'><strong>took lead on implementing the features - this includes code reviews, sprint planning, story assignments, as well as general help when implementing/debugging code.</strong></span></p>",
