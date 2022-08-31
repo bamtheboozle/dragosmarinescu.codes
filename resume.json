@@ -2,8 +2,8 @@
   "meta": { "theme": "stackoverflow" },
   "basics": {
     "name": "Dragoș-Paul Marinescu",
-    "label": "Full-Stack Engineer",
-    "summary": "<h1 style='font-size: 16px'>I'm a <span style='color:#5295ff'><strong>Full-Stack Engineer with React / React Native</strong></span> with a strong desire to produce high quality software by constantly learning and applying current best practices in front-end/back-end development.</h1> <p style='margin-top: 10px'>My main focus is on the front-end, <span style='color:#5295ff'><strong>specializing on creating performant, optimized, and beautiful web-apps</strong></span>. I am an extremely product-focused developer who prioritizes collaboration, performance and user experience.</p><p>In my spare time, I play around with ML models and crypto/blockchain products.</p>",
+    "label": "Senior Frontend Engineer",
+    "summary": "<h1 style='font-size: 16px'><span style='color:#5295ff'><strong>Experienced Senior Frontend Engineer</strong></span> with over <span style='color:#5295ff'><strong>7 years experience</strong></span> building large scale apps with <span style='color:#5295ff'><strong>React / Typescript</strong></span>.</h1> <p style='margin-top: 10px'>Worked on and scaled various <span style='color:#5295ff'><strong>early and mid-level tech start-ups</strong></span> as well as established <span style='color:#5295ff'><strong>banking clients</strong></span> using technologies like: <span style='color:#5295ff'><strong>Typescript, React, Electron, NodeJS, Redux</strong></span>.</p><p style='margin-top: 10px'>Recently <span style='color:#5295ff'><strong>have led and mentored the development teams</strong></span> during my contracting roles, building cool projects like a fully fledged <span style='color:#5295ff'><strong>browser-based screen recorder</strong></span> as well as native apps for tracking, monitoring and servicing gas engines for one of the largest producers in the world.</p>",
     "website": "https://dragosmarinescu.codes",
     "email": "drmarinescu@icloud.com",
     "location": {
@@ -30,8 +30,8 @@
   },
   "education": [
     {
-      "endDate": "2014-10-01",
-      "startDate": "2017-07-01",
+      "startDate": "2014-10-01",
+      "endDate": "2017-07-01",
       "area": "Cybernetics & Software Development",
       "studyType": "Bachelors",
       "institution": "Academia de Studii Economice București"
@@ -51,9 +51,9 @@
     {
       "keywords": [
         "React",
-        "React Hooks",
         "Typescript",
         "Javascript",
+        "React Hooks",
         "React Query",
         "Redux",
         "GraphQL",
@@ -93,7 +93,7 @@
   ],
   "work": [
     {
-      "summary": "<p>Built an industry-leading <span style='color:#5295ff'><strong>web-based screen recorder</strong></span> from the ground up.</p><p>Functionality includes recording multiple streams individually (screen, slides, camera, audio), manipulating the streams, multiple scenes recording and integrating them within Veed's web-based editor.</p>",
+      "summary": "<p>Lead the development of an industry-leading <span style='color:#5295ff'><strong>web-based screen recorder</strong></span> from the ground up in a team of 5 developers.</p><p>Functionality includes recording multiple streams individually (screen, slides, camera, audio), manipulating the streams, multiple scenes recording and integrating them within Veed's web-based editor.</p>",
       "website": "https://veed.io/",
       "company": "Veed",
       "location": "London, UK",
@@ -106,8 +106,7 @@
         "Redux",
         "Typescript",
         "Canvas",
-        "MediaRecorder API",
-        "Chrome Extension"
+        "MediaRecorder API"
       ]
     },
     {
