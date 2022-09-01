@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "jsonresume-theme-autumn": "^1.0.1",
     "jsonresume-theme-stackoverflow": "^1.4.0",
     "resume-cli": "^3.0.4"
   },
   "devDependencies": {},
   "scripts": {
-    "pdf": "resume export resume.pdf --theme=stackoverflow",
-    "html": "resume export index.html --theme=stackoverflow"
+    "pdf": "resume export resume.pdf --theme=autumn",
+    "html": "resume export index.html --theme=autumn"
   },
   "author": "",
   "license": "ISC"
