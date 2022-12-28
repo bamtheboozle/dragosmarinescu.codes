@@ -63,6 +63,17 @@
   ],
   "work": [
     {
+      "summary": "BlueLayer is building the software stack that enables developers of carbon credits to bring quality supply to market.",
+      "website": "https://www.bluelayer.io/",
+      "company": "BlueLayer",
+      "location": "Berlin, DE",
+      "position": "Senior Full-Stack Engineer",
+      "startDate": "2022-11-01",
+      "highlights": [
+        "Building a platform to reverse climate change by developing the software stack that will enable developers of carbon credits to bring quality supply to market. "
+      ]
+    },
+    {
       "summary": "Veed is a self-funded startup with a mission - to make video editing accessible to everyone.",
       "website": "https://veed.io/",
       "company": "Veed",
